@@ -104,79 +104,63 @@ Welcome to the ultimate curated directory of **autonomous sales agents**, **open
 
 ## 🏢 SaaS / Commercial Platforms
 
+The autonomous sales agent market spans **CRM-native sales agents** (Salesforce Agentforce Sales, Microsoft Dynamics 365 Sales) that integrate **deeply with CRM data and workflows**, **AI-native SDR platforms** (Artisan, 11x.ai, AiSDR) that **autonomously prospect, personalize, and book meetings**, and **sales engagement platforms** (Regie.ai, Reply.io, Outreach) that **augment human reps with AI-powered sequencing and conversation intelligence**.
 
+> [!NOTE]
+> **Market Dynamics & Sizing:** The global market for autonomous sales agents and AI SDRs is estimated at **.8B – .9B in 2026** (expanding at a 32% – 44% CAGR towards + by the 2030s). The sector remains **moderately fragmented**: enterprise incumbents (Microsoft, Salesforce) leverage vast CRM and distribution moats, while nimble AI-native challengers (11x, Artisan, AiSDR) innovate rapidly on unbundled SDR workflows, preventing a winner-take-all consolidation in the near term.
 
-The autonomous sales agent market spans **CRM-native sales agents** (Salesforce Agentforce Sales, Microsoft Dynamics 365 Sales) that integrate **deeply with CRM data and workflows**, **AI-native SDR platforms** (Artisan, 11x.ai, AiSDR) that **autonomously prospect, personalize, and book meetings**, and **sales engagement platforms** (Regie.ai, Reply.io, Outreach) that **augment human reps with AI-powered sequencing and conversation intelligence**. **Salesforce Agentforce Sales** requires **Enterprise Edition ($165/user/month) as a minimum**, with the add-on at **$125/user/month** or the **Agentforce 1 Sales bundle at $550/user/month** . **Microsoft Dynamics 365 Sales** includes multiple autonomous agents for qualification, opportunity research, and deal closure .
-
-
-
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
+| SaaS / Commercial Platform | Company / Owner | Valuation / Scale (Descending) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[Salesforce Agentforce Sales](https://www.salesforce.com/sales/ai-sales-agent/)** ☁️ | Salesforce | ~$250 Billion | **$125/user/month** (add-on) or **$550/user/month** (Agentforce 1 Sales) | **Free: Foundations tier with Flex Credits** | **CRM-native autonomous sales** — **Hunter auto-learns how your team sells from connected customer, pipeline, and conversation data** . **Agentforce 1 Sales bundle includes Data 360, Flex Credits, and full agent usage**. **Requires Enterprise Edition ($165/user/month) or above — no workaround** . **Siemens deployed Agentforce to engage 100% of 2,500+ monthly inbound leads across 132 countries** . |
-
-| **[Microsoft Dynamics 365 Sales](https://dynamics.microsoft.com/en-us/sales/)** 🔷 | Microsoft | ~$3.90 Trillion | **$65/user/month** (Professional); **$135/user/month** (Enterprise) | **Free trial available** | **Microsoft-native autonomous sales** — **Sales Qualification Agent** autonomously researches leads, determines fit, sends outreach . **Sales Opportunity Agent** surfaces emerging risks and promising opportunities. **Sales Close Agent** manages end-to-end sales cycle autonomously, engages customers, recommends products, handles objections, and drives transactions to closure . **Sales Development agent works 24/7 generating qualified opportunities from leads** . |
-
-| **[11x.ai](https://www.11x.ai/)** 🎯 | 11x | Private | **Custom enterprise pricing** (not published) | **Live demo required** | **Fully autonomous outbound AI SDR** — **Alice (AI Outbound Sales Agent)** does expert-level research and crafts deeply personalized outreach sequences. **Julian (AI Phone Agent)** responds in seconds to demo requests, qualifying, answering questions, and booking meetings instantly across voice, chat, SMS, and WhatsApp. **Expensive relative to alternatives; still relies on cold data and list quality**. |
-
-| **[Artisan](https://www.artisan.co/)** 🏭 | Artisan | ~$36M raised | **Custom pricing** (not published) | **Demo available** | **All-in-one outbound AI SDR** — **Ava 2.0 runs full outbound end-to-end**: identifying and researching prospects, writing 1:1 outreach based on deep research, running email sequences, handling replies including objections, and booking meetings. **SOC 2 Type II audited, SSO, RBAC, and guardrails**. **Largest single deployment runs Ava across 1,000+ reps at SumUp** . |
-
-| **[AiSDR](https://aisdr.com/)** 🚀 | AiSDR | Private | **$250/month** (Solo, 200 contacts) | **Free trial available** | **Simplified outbound AI SDR** — **Easy onboarding, multi-channel execution, clear pricing model**. **Deeper Salesforce integration than bidirectional contact sync** — every email, reply, and meeting recorded on Contact and Account timelines. **AI account scoring against 1-4 custom criteria**. **Less advanced than category leaders; limited depth in customization**. |
-
-| **[Regie.ai](https://www.regie.ai/)** ⚙️ | Regie.ai | Private | **$41/month** (Pro, annual, 5,000 credits) | **Free: 250 one-time credits** | **AI sales engagement platform** — **Orchestrates plays across channels with AI Agents doing the heavy lifting**. **Strong copy generation, improved personalization quality, quick campaign setup**. **Limited autonomy; does not handle full SDR workflow**. |
-
-| **[Conversica](https://www.conversica.com/)** 🟢 | Conversica | Private | **Custom enterprise pricing** | **Demo available** | **AI sales assistant for lead engagement** — **AnswersIQ leverages RAG for accurate, consistent, real-time responses across SMS and email**. **Fact collection from websites and uploaded documents**. **Automates lead follow-ups and re-engages prospects**. |
-
-| **[Lavender](https://www.lavender.ai/)** 💜 | Lavender | Private | **Custom pricing** | **Free trial available** | **AI sales email coach** — **Grades emails and gives tips to improve**. **Reply rates increase 2-3x when emails score 90 or above**. **Personalization Assistant brings prospect data directly to inbox**. **SOC 2 & GDPR certified**. |
-
-| **[Reply.io Jason AI](https://reply.io/)** ⚡ | Reply.io | Private | **Custom pricing** | **Free trial available** | **Self-learning AI SDR** — **Jason 4.5 watches what you edit and turns repeated changes into AI Learnings applied automatically**. **Custom Playbook builds sales strategy from offer, ICP, and business context**. **LinkedIn Intent Signals** tracks prospects engaging with relevant content. **Calendly booking on autopilot**. |
-
-| **[Outreach Kaia](https://www.outreach.ai/)** 📞 | Outreach | Private | **Custom enterprise pricing** | **Demo available** | **AI conversation intelligence** — **Built on Outreach's AI Revenue Workflow architecture**, sharing data with Omni, Deal Agent, and Research Agent. **Coach Cards score meetings against your team's criteria**. **Conversation data flows into CRM field updates and deal summaries**. |
-
-| **[SquadStack.ai](https://www.squadstack.ai/)** 🇮🇳 | SquadStack | Private | **Outcome-based pricing** (fixed base + success fee) | **Live in banking/financial services** | **Voice AI sales agents with outcome-based pricing** — **Customers pay based on revenue generated, not call minutes** . **93% of proofs of concept convert to production vs ~25% industry average**. **DMI Finance disbursed ₹700 crore with 30% higher conversions than human agents**. **BankBazaar halved customer acquisition cost across 8 crore leads**. |
-
-
+| **[Microsoft Dynamics 365 Sales](https://dynamics.microsoft.com/en-us/sales/)** 🔷 | Microsoft | ~.90 Trillion (Market Cap) | **/user/month** (Professional tier) or **/user/month** (Enterprise tier) | **30-day free trial** (Full feature access with sample data, extendable once by admin) | **Microsoft-native autonomous sales** — Built-in Sales Qualification Agent, Sales Opportunity Agent, and Sales Close Agent autonomously handle research, deal risk surfacing, objection handling, and transaction closing. |
+| **[Salesforce Agentforce Sales](https://www.salesforce.com/sales/ai-sales-agent/)** ☁️ | Salesforce | ~ Billion (Market Cap) | **/user/month** (Add-on to Enterprise tier at /mo) or **/user/month** (Agentforce 1 bundle) | **Free Foundations Tier**: Includes **200,000 Flex Credits** (~10,000 standard agent actions) | **CRM-native autonomous sales** — Hunter auto-learns how your team sells from customer, pipeline, and conversation data. Requires Enterprise Edition (/user/month) or above. |
+| **[Outreach Kaia](https://www.outreach.ai/)** 📞 | Outreach | ~.4 Billion (Valuation) / + raised | **/user/month** (Standard annual base tier + consumption AI credits) | **No free trial** (Evaluation via guided proof-of-concept / demo only) | **AI conversation intelligence & sales execution** — Built on Outreach\'s AI Revenue Workflow architecture. Real-time Coach Cards score sales meetings, surface objection responses, and sync notes to CRM. |
+| **[11x.ai](https://www.11x.ai/)** 🎯 | 11x | ~ Million –  Million (Valuation) /  raised | **,750/month** (,000/year billed annually, Growth tier for Alice AI SDR) | **No free tier or trial** (Requires live qualification & customized pilot) | **Fully autonomous outbound AI SDR** — Alice performs autonomous multi-source lead research and multi-step hyper-personalized sequencing. Julian handles 24/7 inbound voice and chat qualification. |
+| **[Conversica](https://www.conversica.com/)** 🟢 | Conversica | ~ Million (Valuation) /  raised | **,999/month** (Standard entry enterprise annual subscription) | **No free trial** (Vendor-managed custom enterprise deployment and pilot) | **Enterprise conversational AI SDR** — AnswersIQ leverages RAG for accurate, consistent, real-time responses across SMS and email to re-engage stalled leads and automate inbound qualification. |
+| **[Regie.ai](https://www.regie.ai/)** ⚙️ | Regie.ai | ~ Million (Valuation est.) / .6M raised | **/month** (/mo billed monthly; Pro tier with 5,000 monthly credits) | **Free Forever**: **250 one-time credits** (no credit card required, shareable across up to 10 users) | **Autonomous sales engagement platform** — Orchestrates multi-channel outreach plays with AI agents handling prospecting, account research, hyper-personalized copy drafting, and phone dialing. |
+| **[Lavender](https://www.lavender.ai/)** 💜 | Lavender | ~ Million –  Million (Valuation) / .2M raised | **/month** (Starter tier billed annually; /month for Ora AI SDR agent) | **Free Forever**: **5 analyzed & personalized emails/month**; plus **7-day free trial** of Pro | **AI sales email coach & autonomous SDR** — Real-time inbox assistant grading emails to double reply rates, paired with Ora autonomous agent for inbound lead triage and meeting scheduling. |
+| **[Artisan](https://www.artisan.co/)** 🏭 | Artisan | ~ Million (Total funding raised) | **/month** (/mo billed monthly; Intern plan with 12,000 credits/mo) | **Free Forever**: **300 credits/month** (self-serve, no credit card required) | **All-in-one outbound AI SDR** — Ava 2.0 handles prospecting, 300M+ B2B data enrichment, personalized 1:1 email drafting, reply classification, objection handling, and Calendly meeting bookings. |
+| **[SquadStack.ai](https://www.squadstack.ai/)** 🇮🇳 | SquadStack | ~ Million (Total raised) / ₹200 Cr (+) ARR run rate | **Outcome-based fee** (~₹1,999/mo starting for self-serve Rapid Sales or success-fee % on closed deals) | **No free trial** (Enterprise managed pilot engagement) | **Voice AI sales agents with outcome-based pricing** — Enterprise pay-for-performance model based on actual disbursals/conversions rather than call minutes; also offers self-serve Rapid Sales. |
+| **[Reply.io Jason AI](https://reply.io/)** ⚡ | Reply.io | ~ Million ARR (Bootstrapped / Self-funded) | **/user/month** (Base Multichannel) + **/month** (Jason AI autonomous agent add-on) | **14-day free trial** (Full platform trial access, no credit card required) | **Self-learning conversational AI SDR** — Jason AI creates sequence playbooks from your value proposition, handles prospect responses, handles objections, and automatically books meetings. |
+| **[AiSDR](https://aisdr.com/)** 🚀 | AiSDR | ~.9 Million raised / ~+ ARR | **/month** (Solo plan, includes 200 AI-researched contacts/month) | **No free trial** (Free access to dashboard & Ami AI demo builder; paywall to launch live campaigns) | **Streamlined outbound AI SDR** — Built-in AI researcher that scores target accounts, drafts personalized outreach emails, integrates bidirectionally with Salesforce/HubSpot, and auto-books demos. |
 
 ---
-
-
 
 ## 🔓 Open-Source GitHub Projects
 
+*Sorted by GitHub Star Counts (Descending)* 🌟
 
+- **[SalesGPT](https://github.com/filip-michalsky/SalesGPT)** [![Stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)  
+  **Context-aware autonomous AI sales agent**, open-source (Apache-2.0). Uses LangChain and LiteLLM to simulate realistic, multi-turn sales conversations across objection handling, product Q&A, qualification, and stage-gated closing. Integrates custom product knowledge bases via vector stores and tools. 🏆
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+- **[b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template)** [![Stars](https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social&color=white)](https://github.com/iPythoning/b2b-sdr-agent-template/stargazers)  
+  **Open-source AI SDR template for B2B export and outbound pipelines**. Features a 10-stage sales pipeline, 10 automated cron jobs, a 4-engine memory system, and multi-channel synchronization across WhatsApp, Telegram, and Email. Built on the OpenClaw agentic architecture. 🌐
 
+- **[Knotie-AI](https://github.com/avijeett007/Knotie-AI)** [![Stars](https://img.shields.io/github/stars/avijeett007/Knotie-AI?style=social&color=white)](https://github.com/avijeett007/Knotie-AI/stargazers)  
+  **Completely open-source inbound & outbound AI sales agent**. Communicates autonomously with leads and prospects, conducts intelligent discovery, handles objections, and schedules demos through modern conversational LLM pipelines. 🤖
 
+- **[Harvey](https://github.com/ethanplusai/harvey)** [![Stars](https://img.shields.io/github/stars/ethanplusai/harvey?style=social&color=white)](https://github.com/ethanplusai/harvey/stargazers)  
+  **Autonomous AI sales agent powered by Claude Code CLI**. Discovers target prospects, writes hyper-personalized cold outreach emails, executes campaigns, parses incoming replies, and coordinates meeting scheduling without paying third-party API fees. 💼
 
-- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
+- **[sales-ai-agent-langgraph](https://github.com/lucasboscatti/sales-ai-agent-langgraph)** [![Stars](https://img.shields.io/github/stars/lucasboscatti/sales-ai-agent-langgraph?style=social&color=white)](https://github.com/lucasboscatti/sales-ai-agent-langgraph/stargazers)  
+  **Virtual sales agent built on LangChain, LangGraph, and Gemini Flash**. Simulates real-time customer sales interactions including product discovery, inventory inquiry, objection handling, and personalized recommendations via an interactive Streamlit UI. 📊
 
-  **Open-source AI SDR & AI sales platform**, MIT licensed. **The most complete open-source AI sales team** — **AI Sales Strategist generates ICP using SPIN & Challenger frameworks** . **AI Lead Researcher does autonomous lead hunting with scoring and qualification, full local-first CRM with Kanban pipeline**. **AI Caller (SDR) is a real-time AI voice agent** powered by Google Gemini (also supports OpenAI Realtime and ElevenLabs ConvAI) with **built-in Twilio phone lines, live transcription, sentiment analysis, objection detection, and power dialing**. **AI Sales Coach offers objection sparring training with 3 difficulty levels and 12 objection archetypes**. **AI Sales Manager does post-call debrief with auto-generated follow-up emails and call analytics**. **Runs fully in demo mode with no API key** — 10 realistic seed leads, simulated AI calls. **Built with Tauri, React 19, Rust, and Gemini**. **Cost: Free vs $280–$1,000+/month per seat for SaaS alternatives** . 🚀
+- **[AI-Sales-agent](https://github.com/kaymen99/AI-Sales-agent)** [![Stars](https://img.shields.io/github/stars/kaymen99/AI-Sales-agent?style=social&color=white)](https://github.com/kaymen99/AI-Sales-agent/stargazers)  
+  **Conversational sales agent with direct payment closing**. Talks with incoming customers, understands user requirements, recommends catalog products, books appointments/consultations, and securely processes payments via Stripe integration. 💳
 
+- **[B2B_Sales_Agent_Skill](https://github.com/LiChang1125/B2B_Sales_Agent_Skill)** [![Stars](https://img.shields.io/github/stars/LiChang1125/B2B_Sales_Agent_Skill?style=social&color=white)](https://github.com/LiChang1125/B2B_Sales_Agent_Skill/stargazers)  
+  **Specialized agent skill for enterprise B2B sales workflows**. Implements automated lead qualification, safe product Q&A with guardrails, meeting scheduling, automated CRM note generation, and intelligent human-in-the-loop handoffs. 🎯
 
-
-- **[KiessClaw](https://github.com/monykiss/kiessclaw)** [![Stars](https://img.shields.io/github/stars/monykiss/kiessclaw?style=social&color=white)](https://github.com/monykiss/kiessclaw/stargazers)  
-
-  **CLI-first multi-agent sales framework**, open-source. **10 specialized agents sharing one workspace brain** — **KiessProspector** (lead import, enrichment, ICP scoring), **KiessSequencer** (sequence orchestration, scheduling, safety), **KiessPen** (personalization, first lines, templates), **KiessInbox** (reply classification, qualification, DNC), **KiessMetrics** (analytics, deliverability, reporting), plus 5 SEO agents . **Markdown-based memory system** where context persists across agent runs. **Use Case Registry with 6 built-in workflows**, **Prompt Factory with deterministic prompts**, **Prompt Linting**, **Code Scaffolding**, and **Doctor Command** for diagnostics. **Python 3.10+, OpenAI/Anthropic/Ollama support, Slack notifications, Docker deployment** . 🛠️
-
-
-
-- **[simple-sales-gpt](https://github.com/BOFOII/simple-sales-gpt)** [![Stars](https://img.shields.io/github/stars/BOFOII/simple-sales-gpt?style=social&color=white)](https://github.com/BOFOII/simple-sales-gpt/stargazers)  
-
-  **Modular Go package for building sales conversation agents**, MIT licensed. **One agent session per conversation** with **shared knowledge base for products, promotions, and vector search** . **Configurable LLM model** — core package does not hardcode a model provider. **Configurable vector store** — Chroma, Milvus, Pinecone, or any LangChainGo-compatible store. **Tool registry with named tools, descriptions, parameters, and handlers**. **Conversation stages and interest levels**. **Step-based execution for reasoning, tool selection, tool execution, and final response generation** . 🎯
-
-
+- **[AgentSDR](https://github.com/Kandid-ai/AgentSDR)** [![Stars](https://img.shields.io/github/stars/Kandid-ai/AgentSDR?style=social&color=white)](https://github.com/Kandid-ai/AgentSDR/stargazers)  
+  **Open-source, self-hosted AI SDR platform**. Supports cold email sequences, LinkedIn and WhatsApp messaging, automated contact enrichment tables, and an AI-native CRM that categorizes incoming responses and auto-drafts replies. Bring-your-own-API-key model. 📧
 
 - **[ShampooSalesAgent](https://github.com/jackfsuia/ShampooSalesAgent)** [![Stars](https://img.shields.io/github/stars/jackfsuia/ShampooSalesAgent?style=social&color=white)](https://github.com/jackfsuia/ShampooSalesAgent/stargazers)  
+  **Minimal LLM sales agent framework for multi-model benchmark & experimentation**. Supports OpenAI, Anthropic Claude, Gemini, DeepSeek, Qwen, Baichuan, and Moonshot for conversational sales testing and evaluation. 🧪
 
-  **Minimal LLM sales agent framework for fast deployment and benchmark**, open-source. **20 GitHub stars** — **supports OpenAI models, Claude, HuggingFace models, Gemini, Ernie (文心一言4.0), Baichuan (百川), Qwen (通义千问), Moonshot (月之暗面), GLM (智谱), and Deepseek** . **The most accessible open-source sales agent for multi-model experimentation**. 🧪
+- **[opencloser-v2](https://github.com/issacops/opencloser-v2)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers)  
+  **Local-first desktop AI SDR & AI sales platform**. Built with Tauri, React, Rust, and Gemini. Features AI Sales Strategist (SPIN & Challenger frameworks), autonomous lead hunting, real-time AI voice calling via Twilio, objection sparring coach, and post-call analytics. 🚀
 
-
-
----
-
-
+- **[simple-sales-gpt](https://github.com/BOFOII/simple-sales-gpt)** [![Stars](https://img.shields.io/github/stars/BOFOII/simple-sales-gpt?style=social&color=white)](https://github.com/BOFOII/simple-sales-gpt/stargazers)  
+  **Modular Go package for building autonomous sales conversation agents** (MIT). Multi-stage state machine with configurable vector stores (Chroma, Milvus, Pinecone), tool registries, and pluggable LLM providers via LangChainGo. ⚙️
 
 ## 🛠️ How to Contribute
 
