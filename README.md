@@ -113,7 +113,7 @@ The autonomous sales agent market spans **CRM-native sales agents** (Salesforce 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Counts (Descending)* 🌟
+*Sorted by GitHub Stars_Counts (Descending)* 🌟
 
 - **[SalesGPT](https://github.com/filip-michalsky/SalesGPT)** [![Stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)  
   **Context-aware autonomous AI sales agent**, open-source (Apache-2.0). Uses LangChain and LiteLLM to simulate realistic, multi-turn sales conversations across objection handling, product Q&A, qualification, and stage-gated closing. Integrates custom product knowledge bases via vector stores and tools. 🏆
