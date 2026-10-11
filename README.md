@@ -1,6 +1,4 @@
-# Awesome-Autonomous-Sales-Agents
-
-# Awesome-Autonomous-Sales-Agents 🤖 📈
+# Awesome Autonomous Sales Agents 🤖 📈 🚀
 
 
 
@@ -52,35 +50,23 @@
 
 
 
-### 📌 Overview & SEO Summary
+### 📌 Overview & SEO Summary 🔍 🌐
 
-Welcome to the ultimate curated directory of **autonomous sales agents**, **open-source AI SDR frameworks**, and **autonomous prospecting platforms**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Agentforce Sales*, *Artisan*, and *11x.ai*), or self-hostable open-source alternatives (like *OpenCloser*, *KiessClaw*, and *simple-sales-gpt*), this list covers category leaders, agentic architectures, and privacy-respecting sales automation.
+Welcome to the definitive, community-driven curated directory of **autonomous sales agents**, **open-source AI SDR frameworks**, **agentic RevOps workflows**, and **autonomous B2B prospecting platforms**. Whether you are searching for enterprise-ready commercial solutions (such as *Microsoft Dynamics 365 Sales Agents*, *Salesforce Agentforce Sales*, *Artisan Ava*, and *11x.ai Alice*), or self-hostable, privacy-first open-source alternatives (like *SalesGPT*, *b2b-sdr-agent-template*, *Harvey*, and *opencloser-v2*), this repository tracks category benchmarks, production architectures, pricing, and free tiers.
 
+#### 🎯 Target Use Cases & Keywords
+- **Autonomous Prospecting & AI BDRs**: Real-time ICP list building, account intent scoring, multi-source research, and email warm-up. 🎯
+- **Multi-Channel AI SDR Outreach**: End-to-end hyper-personalized email sequencing, automated LinkedIn messaging, SMS, and WhatsApp outbound. 📨
+- **AI Voice Agents & Inbound Triage**: Real-time voice qualification, objection sparring, and instant demo bookings directly on Calendly/HubSpot. 📞
+- **Agentic Deal Closing & RevOps**: Automated CRM data hygiene, stage-gated qualification (MEDDPICC, BANT, SPIN), and revenue intelligence. 💼
 
-
-**Key Market Context:**
-
-- The AI SDR market grows from **$4.39B in 2025 to $5.81B in 2026** (32.3% CAGR), with **87% of sales organizations already using some form of AI** and nearly **90% planning to adopt AI agents by 2027** .
-
-- **Salesforce Hunter** auto-learns how your sales team sells from connected customer, pipeline, and conversation data, then connects the right sales skills into a working plan that runs alongside reps. It ships in **Coworker** with out-of-the-box and customizable prospecting skills .
-
-- **Salesforce Agentforce Sales** requires **Enterprise Edition ($165/user/month)** as a minimum, with the add-on license at **$125/user/month** or the **Agentforce 1 Sales edition at $550/user/month** .
-
-- **Microsoft Dynamics 365 Sales** includes out-of-the-box AI agents: **Sales Qualification Agent** (autonomously researches leads, determines fit, sends outreach), **Sales Opportunity Agent** (researches opportunities, surfaces risks), and **Sales Close Agent** (manages end-to-end sales cycle autonomously) .
-
-- **OpenCloser** is the **most complete open-source AI SDR & sales platform** — AI Sales Strategist (SPIN & Challenger frameworks), AI Lead Researcher, AI Caller (real-time voice with Twilio), AI Sales Coach (objection sparring), and AI Sales Manager (post-call debrief) — all running locally with **zero cloud dependency** at **$0 vs $280–$1,000+/month per seat** for SaaS alternatives .
-
-- **KiessClaw** is a **CLI-first multi-agent sales framework** with 10 specialized agents (KiessProspector, KiessSequencer, KiessPen, KiessInbox, KiessMetrics, plus SEO agents), sharing a **markdown-based workspace brain** where context persists across agent runs .
-
-- **SquadStack.ai** introduced **outcome-based pricing** for voice AI sales agents in India — customers pay based on **revenue generated** (loans disbursed, cards issued) rather than call minutes, with **93% of proofs of concept converting to production vs ~25% industry average** .
-
-- **SaaStr replaced its human SDR team with 20+ AI agents** that sent **60,000+ personalized emails and booked 130+ meetings**, though each agent took **two weeks minimum to deploy** and every message was human-reviewed for the first 30 days .
-
-
+#### 📈 Key Market Context & Benchmarks 📊
+- 🚀 **Explosive Market Growth**: The AI SDR & autonomous sales agent market expands from **.39B in 2025 to .81B–.9B in 2026** (32%–44% CAGR), projected to exceed **+** into the 2030s. Over **87% of high-growth sales teams** now leverage AI agents.
+- ☁️ **Enterprise CRM Ingestion**: **Salesforce Agentforce Hunter** and **Microsoft Dynamics 365 Sales Agents** operate directly against internal pipeline and customer graph data for deep CRM-native autonomy.
+- 🔓 **Open-Source Innovation**: Frameworks like **SalesGPT** and **b2b-sdr-agent-template** allow engineering and RevOps teams to run custom multi-agent workflows locally using LangChain, LangGraph, and Claude/Gemini/OpenAI at near-zero software seat cost.
+- 💡 **Outcome-Based Disruption**: Next-gen sales agent providers like **SquadStack.ai** have pioneered outcome-based pricing models where enterprises pay per closed revenue/disbursal milestone rather than per seat or per call minute.
 
 ---
-
-
 
 ## 📑 Table of Contents
 
@@ -196,25 +182,14 @@ Contributions are welcome! Follow these steps to submit new autonomous sales age
 
 
 
-## 🤝 Support & Sponsorship
+## 🤝 Support & Sponsorship ☕ 💖
 
+Thank you so much for exploring and supporting **Awesome Autonomous Sales Agents**! If you find this curated directory, pricing benchmarks, and open-source guide helpful, please consider supporting the project:
 
-
-If you find this autonomous sales agents repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow sales leaders, RevOps professionals, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
-
----
-
-
+- ⭐ **Star this repository** to increase visibility and help others discover top sales agents!
+- 🔀 **Fork & Share** with fellow sales engineers, RevOps professionals, and AI builders.
+- ☕ **Buy Me a Coffee & Sponsor**: Support ongoing maintenance, ecosystem research, and open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- 💬 **Join the Discussion**: Share feedback, suggest new agent architectures, or collaborate with the community on [Discord](https://discord.gg/jc4xtF58Ve).
 
 ## ⚠️ Disclaimer
 
